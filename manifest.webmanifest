@@ -1,0 +1,12 @@
+{
+  "name": "Artiman AI",
+  "short_name": "Artiman AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050b15",
+  "theme_color": "#07111f",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
